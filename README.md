@@ -14,7 +14,7 @@ pip install win10toast
 ```
 
 We will use:
->Keyboard to Get Inputs from the keyboard.
->Numpy to make an array .
->Pandas to get key abbrevations dataset .
->Win 10 toast to make toasts in the screen
+>Keyboard to Get Inputs from the keyboard.\n
+>Numpy to make an array .\n
+>Pandas to get key abbrevations dataset .\n
+>Win 10 toast to make toasts in the screen\n
