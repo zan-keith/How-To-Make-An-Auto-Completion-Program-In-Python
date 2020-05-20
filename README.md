@@ -15,7 +15,7 @@ pip install pandas
 pip install win10toast
 # For More Info :https://pypi.org/project/win10toast/
 ```
-<img alt="Autocompleter in Python" src="https://miro.medium.com/max/700/1*DlIScTVCY2_otb9ggzZHhQ.png"/>
+<img alt="Autocompleter in Python" src="https://miro.medium.com/max/700/1*DlIScTVCY2_otb9ggzZHhQ.png" />
 
 **We will use:**<br/>
 ***Keyboard to Get Inputs from the keyboard.<br/>
